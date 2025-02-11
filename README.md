@@ -55,21 +55,6 @@ The model outputs a churn probability along with a prediction:
 - **Backend:** Python, TensorFlow/Keras for machine learning
 - **Data Processing:** Pandas, NumPy, Scikit-learn
 
-## Example Output
-```
-Prediction Probability: 0.29
-Customer will likely stay
-```
-
-## Future Improvements
-- Enhance the user interface.
-- Implement feature importance visualization.
-- Include additional ML models for comparison.
-- Add secure model deployment features.
-
 ## License
 This project is licensed under the MIT License.
-
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
 
